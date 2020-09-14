@@ -54,4 +54,8 @@ Project Organization
 
 --------
 
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+<p>Steps to bring up the dynamic dashboard - Task 1:</p>
+<small>1. Go to notebooks folder and execute Covid_19-responsiveDash notebook</small>
+
+<p>Steps to bring up the dynamic dashboard with SIR simulation- Task 2:</p>
+<small>1. Go to notebooks folder and execute Covid_19-SIR-responsiveDash notebook</small>
