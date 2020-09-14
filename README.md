@@ -54,8 +54,8 @@ Project Organization
 
 --------
 
-<p>Steps to bring up the dynamic dashboard - Task 1:</p>
-1. Go to notebooks folder and execute Covid_19-responsiveDash notebook</br>
+Steps to bring up the dynamic dashboard - Task 1:
+      1. Go to notebooks folder and execute Covid_19-responsiveDash notebook</br>
 
-<p>Steps to bring up the dynamic dashboard with SIR simulation- Task 2:</p>
-2. Go to notebooks folder and execute Covid_19-SIR-responsiveDash notebook
+Steps to bring up the dynamic dashboard with SIR simulation- Task 2:
+      2. Go to notebooks folder and execute Covid_19-SIR-responsiveDash notebook
